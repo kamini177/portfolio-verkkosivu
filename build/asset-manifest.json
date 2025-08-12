@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kamini177/portfolio.git/static/css/main.6b90b13a.css",
+    "main.js": "/kamini177/portfolio.git/static/js/main.55047706.js",
+    "static/js/453.ad7768ec.chunk.js": "/kamini177/portfolio.git/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/kamini177/portfolio.git/index.html",
+    "main.6b90b13a.css.map": "/kamini177/portfolio.git/static/css/main.6b90b13a.css.map",
+    "main.55047706.js.map": "/kamini177/portfolio.git/static/js/main.55047706.js.map",
+    "453.ad7768ec.chunk.js.map": "/kamini177/portfolio.git/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b90b13a.css",
+    "static/js/main.55047706.js"
+  ]
+}
